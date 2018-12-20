@@ -1,0 +1,40 @@
+ #footer {height: 150px;border:1px solid #333;}
+#content{min-height: 500px; border-left: 1px solid #333; border-right: 1px solid #333;
+}
+.header{
+	font-size: 50px;
+	text-align: center;
+	background: #515e68;
+	height: 100px;
+	color: #dedede;
+}
+	#a{
+		width:200px;
+		height:300px;
+		background:#0d0d0d;
+		float:left;
+}
+	#b{
+		width:400px;
+		height:300px;
+		background:#FF3300;
+		float:left;
+		
+		
+}	
+
+	#c{
+		width:200px;
+		height:300px;
+		background:#00CC00;
+		float:left;
+		
+}
+table{
+	
+	font-size: 20px;
+	height: 410px;
+	width: 393px;
+	border: 0px;
+	background-color: #aedce9;
+}
